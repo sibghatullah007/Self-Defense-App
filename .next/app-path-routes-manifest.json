@@ -1,0 +1,18 @@
+{
+  "/api/emergency-contact/route": "/api/emergency-contact",
+  "/api/auth/login/route": "/api/auth/login",
+  "/api/sos/send/route": "/api/sos/send",
+  "/api/auth/register/route": "/api/auth/register",
+  "/api/test-db/route": "/api/test-db",
+  "/_not-found/page": "/_not-found",
+  "/login/page": "/login",
+  "/profile/page": "/profile",
+  "/resources/page": "/resources",
+  "/clear-storage/page": "/clear-storage",
+  "/sos/page": "/sos",
+  "/self-defense/page": "/self-defense",
+  "/page": "/",
+  "/report/page": "/report",
+  "/register/page": "/register",
+  "/test-db/page": "/test-db"
+}
