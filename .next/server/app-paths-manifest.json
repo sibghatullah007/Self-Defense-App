@@ -1,18 +1,1 @@
-{
-  "/api/emergency-contact/route": "app/api/emergency-contact/route.js",
-  "/api/auth/login/route": "app/api/auth/login/route.js",
-  "/api/sos/send/route": "app/api/sos/send/route.js",
-  "/api/auth/register/route": "app/api/auth/register/route.js",
-  "/api/test-db/route": "app/api/test-db/route.js",
-  "/_not-found/page": "app/_not-found/page.js",
-  "/login/page": "app/login/page.js",
-  "/profile/page": "app/profile/page.js",
-  "/resources/page": "app/resources/page.js",
-  "/clear-storage/page": "app/clear-storage/page.js",
-  "/sos/page": "app/sos/page.js",
-  "/self-defense/page": "app/self-defense/page.js",
-  "/page": "app/page.js",
-  "/report/page": "app/report/page.js",
-  "/register/page": "app/register/page.js",
-  "/test-db/page": "app/test-db/page.js"
-}
+{}

@@ -12,55 +12,55 @@ const tutorials = [
   {
     id: "basic-1",
     category: "basic",
-    title: "Basic Self-Defense Stance",
+    title: "How To Protect Yourself?!",
     description: "Learn the fundamental stance for self-defense situations",
-    videoId: "SHV-TEZqLpY",
-    length: "5:30",
+    videoId: "B725c7vi1xk",
+    length: "3:40",
     level: "beginner"
   },
   {
     id: "basic-2",
     category: "basic",
-    title: "Breaking Free from Wrist Grabs",
+    title: "Roadfight like pro। martial arts",
     description: "Techniques to escape common wrist holds and grabs",
-    videoId: "5UDgGcQbkcM",
-    length: "8:45",
+    videoId: "Swof85FTeQg",
+    length: "8:00",
     level: "beginner"
   },
   {
     id: "escape-1",
     category: "escape",
-    title: "Escaping from Bear Hugs",
+    title: "Is MUAY THAI the DEADLIEST martial art",
     description: "How to quickly escape from different types of bear hugs",
     videoId: "T7aNSRoDCmg",
-    length: "7:20",
+    length: "5:12",
     level: "intermediate"
   },
   {
     id: "escape-2",
     category: "escape",
-    title: "Breaking Free from Chokes",
+    title: "7 Deadly Moves to Fight Like a MONSTER",
     description: "Safe techniques to escape front and rear chokes",
-    videoId: "9_oKYYCmmiw",
-    length: "10:15",
+    videoId: "91nkqEyJqhg",
+    length: "8:10",
     level: "intermediate"
   },
   {
     id: "response-1",
     category: "response",
-    title: "Using Everyday Items for Defense",
+    title: "DO THIS If someone grabs your collar",
     description: "How to use common items as defensive tools",
-    videoId: "hcc5fm9xvzo",
-    length: "6:50",
+    videoId: "0hEYiCsRAKo",
+    length: "4:21",
     level: "beginner"
   },
   {
     id: "response-2",
     category: "response",
-    title: "Verbal De-escalation Techniques",
+    title: "How to PUNCH HARD with Maximum Power",
     description: "How to defuse threatening situations with verbal strategies",
-    videoId: "G4KLZ0KM7s0",
-    length: "9:10",
+    videoId: "ALRvrCzWKzA",
+    length: "4:04",
     level: "beginner"
   },
 ];
